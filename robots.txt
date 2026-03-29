@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# AI Training Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Internet Archive
+User-agent: ia_archiver
+Allow: /
+
+Sitemap: https://ocherokee.github.io/information-ark/sitemap.xml
